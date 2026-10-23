@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large competition datasets and submissions
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tar.gz
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+.ipynb_checkpoints/
