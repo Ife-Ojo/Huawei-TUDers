@@ -1,0 +1,9 @@
+polars
+duckdb
+pyarrow
+lightgbm
+scikit-learn
+numpy
+pandas
+torch
+gensim
