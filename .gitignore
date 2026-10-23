@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 
 # Large competition datasets and submissions
+data/
+outputs/
+models/
 *.csv
 *.tsv
 *.parquet
@@ -11,8 +14,9 @@ __pycache__/
 *.tar.gz
 
 # Virtual environments
-.env
+.venv/
 .venv
+.env
 env/
 venv/
 ENV/
